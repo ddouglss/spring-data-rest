@@ -33,7 +33,7 @@ Este é um projeto de API RESTful utilizando Spring Boot com deploy na Railway, 
 
 ## 🗂️ Estrutura do Projeto
 
-
+```
 src/
 └── main/
 ├── java/
@@ -44,7 +44,7 @@ src/
 │ │ └── UserRestRepository.java
 │ └── SpringBootRailwayApplication.java
 └── resources/
-
+```
 
 ---
 
@@ -72,15 +72,14 @@ src/
 
 ---
 
-# 📄 Swagger/OpenAPI
+##📄 Swagger/OpenAPI
 - Documentação interativa: http://localhost:8080/swagger-ui/index.html
 
 ---
 ## 👤 Autor
 
-- Douglas Souza 
-<br/>
-  LinkedIn | GitHub
+- <p>Douglas Souza </p> 
+  <a href="https://www.linkedin.com/in/ddouglss">LinkedIn<a/>  | <a href= "https://github.com/ddouglss">GitHub<a/>
 
 ---
 
