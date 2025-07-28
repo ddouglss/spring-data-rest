@@ -1,4 +1,4 @@
-# Spring Boot Railway API
+# Rest API em Java com Spring Boot e Spring Data Rest
 
 Este é um projeto de API RESTful utilizando Spring Boot com deploy na Railway, conectando-se a um banco de dados MySQL e expondo endpoints automáticos via Spring Data REST. A documentação da API é fornecida pelo Swagger/OpenAPI.
 
